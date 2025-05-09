@@ -1,8 +1,8 @@
 ## Cómo Ejecutar
 
-1.  **Clonar el repositorio (si aplica).**
+1.  **Clonar el repositorio**
 2.  **Navegar al directorio del proyecto.**
-3.  **Crear un entorno virtual (recomendado):**
+3.  **Crear un entorno virtual**
     ```bash
     python -m venv venv
     source venv/bin/activate  # En Linux/macOS
